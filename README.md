@@ -19,6 +19,7 @@ Member_정 지수님 [@JSJeong](https://github.com/hy6219)
 - 사용한 기술 : HTML, CSS, Javascript ES5, JSP, Servlet, cos.jar(file upload)
 - 적용한 디자인 패턴: 커맨드 패턴
 - 구현 내용 : 검색 조건별 페이징 조회, 무한 댓글, 플렉스 레이아웃(CSS), float
+- 로직 관련 소개는 [여기](https://github.com/hy6219/LostAnimals) 에서 짧게 살펴보실 수 있습니다
 
 Member_김 수호님 [@ktaeho14](https://github.com/ktaeho14)
 
