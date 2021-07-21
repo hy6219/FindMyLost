@@ -20,8 +20,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-   
-    <link rel="stylesheet" href="./css/sighting_main.css"> <!-- section css -->
+<link rel="shortcut icon" href="<%=request.getContextPath() %>/favicon.ico" type="image/x-icon">  
+<link rel="stylesheet" href="./css/sighting_main.css"> <!-- section css -->
 <link rel="stylesheet" href="./css/UI.css">
 <link rel="stylesheet" href="./css/sightingDetail.css">
     
@@ -114,7 +114,7 @@
    
    	<tr>
    	  <th>글 내용</th>
-   	  <td colspan="3"><textarea cols="60" rows="10">${adDto.adopt_content }</textarea></td>
+   	  <td colspan="3">${adDto.adopt_content }</td>
    	</tr>
    	
   

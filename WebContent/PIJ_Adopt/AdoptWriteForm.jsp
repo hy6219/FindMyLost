@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <script type="text/javascript" src="../ckeditor/ckeditor.js"></script>
 <title>Insert title here</title>
-
+<link rel="shortcut icon" href="<%=request.getContextPath() %>/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="../css/sighting_main.css"> <!-- section css -->
 	<link rel="stylesheet" href="../css/UI.css">
 

@@ -21,6 +21,7 @@
 <head>
 <meta charset="EUC-KR">
 <title>Insert title here</title>
+<link rel="shortcut icon" href="<%=request.getContextPath() %>/favicon.ico" type="image/x-icon">
 <style type="text/css">
 .adopt_table{
 	text-align : center;
