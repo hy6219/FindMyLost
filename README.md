@@ -27,7 +27,7 @@ Member_김 수호님 [@ktaeho14](https://github.com/ktaeho14)
 - 사용한 기술 : HTML, CSS, Javascript ES5, JSP, Servlet, cos.jar(file upload)
 - 적용한 디자인 패턴: MVC2 패턴
 - 구현 내용 : 조견별 검색기능, 페이징 조회, 이미지 업로드, grid 레이아웃(CSS)
-- 
+
 Member_박 인정님 [@InJungPark](https://github.com/InJungPark)
 
 - 역할 : 입양 게시판 CRUD, CK Editor
